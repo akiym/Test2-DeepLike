@@ -1,0 +1,6 @@
+name = "Test2-DeepLike"
+# badges = ["travis"]
+authority="cpan:AKIYM"
+
+module_maker="ModuleBuildTiny"
+
